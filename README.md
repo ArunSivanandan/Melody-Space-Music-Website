@@ -28,8 +28,6 @@ The website is structured semantically with a mobile-first philosophy. Keeping w
 
 As The Monkees have been around for some time and long established their brand, the sites colors and typography draw on the existing aesthetic and color scheme in order to instantly identify the site with the band.
 
-A site map drawn up prior to start of the websites development can be found in this repository titled: The Monkees Website\_ Preliminary Site Map.pdf
-
 ## Features
 
 1. Users can watch music videos.
@@ -88,11 +86,3 @@ The website has been deployed to Github pages and can be found
 ### Content
 
 - The text for 'Band' section was copied from the [Wikipedia article - The Monkees](https://en.wikipedia.org/wiki/The_Monkees)
-
-### Media
-
-- The media files used in this website were provided by the Code SRM Institute
-
-### Acknowledgements
-
-- I received inspiration for image overlay and block divider from the [Whiskey Drop - Course Project]
